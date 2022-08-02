@@ -11,4 +11,4 @@ This project is about projecting your return on saving investment.
 
 3. Comparing your investment return against:
 - inflation rate 
-- market benchmarks (AXS200, superannuation etc)
+- market benchmarks (ASX200, superannuation etc)
