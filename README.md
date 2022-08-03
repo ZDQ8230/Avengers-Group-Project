@@ -7,3 +7,12 @@ https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-
 
 ### CPI: 
 https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release
+
+
+
+house hold debt and income: 
+https://www.abs.gov.au/statistics/economy/finance/household-income-and-wealth-australia/latest-release
+
+![](./Household_income_debt.png)
+
+
