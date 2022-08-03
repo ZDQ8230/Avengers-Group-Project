@@ -10,7 +10,7 @@ First download your bank statements as a csv. The tool will use the CSV file as 
 
 ## Initial Brainstorm
 
-![Brainstorm](/Avengers-Group-Project/Resources/Avenger_Budget_Calculator_1.png)
+![Brainstorm](/Resources/Avenger_Budget_Calculator_1.png)
 
 
 # [What is a CSV File and its uses?]("https://www.edureka.co/blog/python-csv-files/")
