@@ -28,6 +28,7 @@ Moving on let’s talk about the reason behind usage of CSV File format.
 - [Geeks]("https://www.geeksforgeeks.org/working-csv-files-python/")
 - [Guru]("https://www.guru99.com/python-csv.html")
 - [Edureka]("https://www.edureka.co/blog/python-csv-files/")
+- [How to import a CSV and remove unwanted characters in Python]("https://www.youtube.com/watch?v=vL_TFRFs3Ps")
 
 ## Generating Random CSV
 
@@ -47,8 +48,9 @@ Moving on let’s talk about the reason behind usage of CSV File format.
 
 ### Further Readings
 
--[Python Tutorial: Handling errors and missing data]("https://www.youtube.com/watch?v=ieUHQzSrpUI")
--[User interface]("https://pypi.org/project/PyQt6/")
+- [Google CoLab]("https://colab.research.google.com/)[+]("https://www.youtube.com/watch?v=uEFsQkhrAOA")
+- [Python Tutorial: Handling errors and missing data]("https://www.youtube.com/watch?v=ieUHQzSrpUI")
+- [User interface]("https://pypi.org/project/PyQt6/")
 - [bank-statement-reader 0.1.2]("https://pypi.org/project/bank-statement-reader/")
 
 ---
