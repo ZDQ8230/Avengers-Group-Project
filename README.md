@@ -72,7 +72,7 @@ Date,Description,Debit,Credit,
 
 ## Similar Projects & Inspiration
 
-- [How to Parse Data Tables from a PDF Bank Statement with Python - Phillip Heita]('https://medium.com/python-in-plain-english/how-to-parse-data-tables-from-a-pdf-bank-statement-with-python-ebc3b8dd8990')
+- [How to Parse Data Tables from a PDF Bank Statement with Python - Phillip Heita](https://medium.com/python-in-plain-english/how-to-parse-data-tables-from-a-pdf-bank-statement-with-python-ebc3b8dd8990)
 - [Manage your Money with Python - Lorenzo Rosa](https://towardsdatascience.com/manage-your-money-with-python-707579202203)
 - [Bank Project](https://projectworlds.in/tag/bank-management-system-project-in-python-using-csv/)
 
