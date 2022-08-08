@@ -16,8 +16,10 @@ This project analyse an individual's saving data from their bank statements. Thr
 ### Data sorting, cleaning and exploration 
 Processing data is essential as users are with different banks, thus have different bank statements (NAB, ANZ, CBA, Westpac). 
 
+Example of CBA bank statement: 
 ![CBA Bank Statement](./Resources/Example%20of%20CBA%20bank%20statements.png)
 
+Example of ANZ bank statement: 
 ![ANZ Bank Statement](./Resources/Example%20of%20ANZ%20bank%20statements.png)
 
 1. Data was extracted from bank statements and used to build dataframe. 
