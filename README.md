@@ -1,4 +1,4 @@
-# Exlcusive summary: 
+# Executive summary : 
 
 ## The Avengers Budget Calculator | Tool to encourage Saving & Investing
 
@@ -17,6 +17,7 @@ This project analyse an individual's saving data from their bank statements. Thr
 Processing data is essential as users are with different banks, thus have different bank statements (NAB, ANZ, CBA, Westpac). 
 
 ![CBA Bank Statement](./Resources/Example%20of%20CBA%20bank%20statements.png)
+
 ![ANZ Bank Statement](./Resources/Example%20of%20ANZ%20bank%20statements.png)
 
 1. Data was extracted from bank statements and used to build dataframe. 
