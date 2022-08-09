@@ -25,7 +25,7 @@ This project assess an individual's spending and saving using their bank stateme
 
 # Technical 
 
-### Source of data: 
+## Source of data: 
 
 In the input section, data was extracted from user's bank statements. 
 
