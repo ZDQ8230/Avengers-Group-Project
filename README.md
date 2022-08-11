@@ -34,9 +34,11 @@ Using Financial technology including API, Monte-Carlos Stimulus, Python etc, the
 
 `Program uses multiple Python libraries including Faker, Pandas, Datetime, OS, Numpy and Pathlib `
 
+![Python Libraries](./Resources/libraries.PNG)
+
 ## Source of data: 
 
-1. Data extracted from user's bank statements. 
+1. CSV Data extracted from user's bank statements. 
 
 2. Analysis of historical data from S&P 500 and Aggregate Bond Index ETF,  obtained from Alpaca. 
 
@@ -64,21 +66,35 @@ Processing and cleaning data is essential as users are with different banks, thu
 The program models the "BIG 4" banks, as they are the prevelant financial institutions in Australia.
 
 ### Example of CBA bank statement: 
-![CBA Bank Statement](./Resources/Example%20of%20CBA%20bank%20statements.png)
+![CBA Bank Statement](./Resources/Example_CBA_statements.png)
 
 
 
 ### Example of ANZ bank statement: 
-![ANZ Bank Statement](./Resources/Example%20of%20ANZ%20bank%20statements.png)
+![ANZ Bank Statement](./Resources/Example_ANZ_statements.png)
 
 
 ### Example of Standardised DataFrame After Data Clean
 
-![Dataframe](./Resources/bank%20dataframe.png)
+![Dataframe](./Resources/bank_dataframe.png)
 
 
 
+---
 
 
+## Create User Summary through Data Story
 
+The program makes it simple to see your expenditure and visualise your cashflow
+
+![Monthly Cash Flow Chart](./Resources/monthly_cashflow_chart.png)
+
+
+## Show Investment Simulation to Encourage Saving and investing
+
+`Insert chart of Monte carlo sim (Slice for period until retirement)`
+
+## Compare Savings to the Average Australian
+
+![Savings Comparison Chart](./Resources/savings_comparison_chart.png)
 
