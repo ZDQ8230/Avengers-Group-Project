@@ -26,7 +26,8 @@ Using Financial technology including API, Monte-Carlos Stimulus, Python etc, the
 
 ## Flow Chart
 
-![Mind Map](./Resources/Avenger_Budget_Calculator_Brainstorm.drawio%20(1).png)
+![Mind Map](./Resources/Mindmap.drawio.png)
+
 
 
 
