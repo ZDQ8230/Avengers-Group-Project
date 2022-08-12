@@ -145,13 +145,19 @@ The program makes it simple to see your expenditure and visualise your cashflow
 
 ## 2. Set the file loaction for your csv file and input the basic parameters
 
+<br>
+
  ### 1. Set up file path to access your bank CSV 
 
 
 <br>
 
 
-## 2. Input you current age and retirement age
+
+### 2. Input you current age and retirement age
+
+
+
 
 <br>
 
