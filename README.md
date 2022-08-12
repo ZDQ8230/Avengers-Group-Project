@@ -151,11 +151,11 @@ The program makes it simple to see your expenditure and visualise your cashflow
 <br>
 
 
-### 2. Input you age, retirement age and risk appetite
+## 2. Input you current age and retirement age
 
 <br>
 
-### Code for input current age and expected retirement age
+#### Input current age and expected retirement age
 ![Code for input current age and expected retirement age](./Resources/Age_and_retirement_age_input.png) 
 
 <br>
@@ -164,11 +164,11 @@ The program makes it simple to see your expenditure and visualise your cashflow
 
 
 
-### 3. Customise you investment return 
+## 3. Customise you investment return 
 
 
 
-### Input risk appetite
+#### Input risk appetite
 ![Code for input risk appetite](./Resources/risk_appetite_input.png)
 
 <br>
@@ -178,25 +178,36 @@ The program makes it simple to see your expenditure and visualise your cashflow
 
 <br>
 
-### Personal bankstatement
+#### Personal bankstatement
 ![](./Resources/Personal_saving_results_from_bankstatement%20.png)
+
+- Shows top three savings
+- Shows average yearly, monthly and weekly savings
+
+`A comprehensive view of how much savings the user can achieve` 
 
 <br>
 
-### Monthly cash flow
+#### Monthly cash flow
 
 ![Monthly Cash Flow Chart](./Resources/monthly_cashflow_chart.png)
 
+- Displays user's expending and income 
+- Enables user to gain understanding and reflection upon of their expending behaviour 
+
+
 <br>
 
-### User's saving in comparison to saving of his/her age group
+#### User's savings in comparison to savings of his/her age group
 ![](./Resources/User_data_compare_to_saving_by_agegroup.png)
 source: [Westpac](https://www.westpac.com.au/personal-banking/solutions/budgeting-and-savings/savings/savings-by-age/)
 
+- User can view their financial position amongst their age groups 
+
 <br>
 
 
-### Annualised return on investment in comparison to inflation rate 
+#### Annualised return on investment in comparison to inflation rate 
 
 
 
