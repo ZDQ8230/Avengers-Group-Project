@@ -45,87 +45,6 @@ Using Financial technology including API, Monte-Carlos Stimulus, Python etc, the
 
 
 
-
-# Technical Specifications
-
-`Program uses multiple Python libraries including Faker, Pandas, Datetime, OS, Numpy and Pathlib `
-
-![Python Libraries](./Resources/libraries.PNG)
-
-## Source of data: 
-
-1. CSV Data extracted from user's bank statements. 
-
-2. Analysis of historical data from S&P 500 and Aggregate Bond Index ETF,  obtained from Alpaca. 
-
-    The data were then used for Monte-Carlos Simulations. 
-
-    <sub>_Time period from 2017-05-01 to 2020-05-01_</sub>
-
-3. Inflation data (Consumer Price Index, **CPI**) was obtained from Australian Bureau of Statistics (ABS). 
-
-    Saving-By-Age data was obtained from Westpac. 
-
-    <sub>_Time period for CPI was from Jun-2012 to Jun-2022._</sub>
-
-    <sub>_Saving_By_Age was taken at 31-12-2020_</sub>
-
-
-
----
-
-
-## Data sorting, Cleaning and Exploration: 
-
-Processing and cleaning data is essential as users are with different banks, thus have different bank statement formats (NAB, ANZ, CBA, Westpac). 
-
-The program models the "BIG 4" banks, as they are the prevelant financial institutions in Australia.
-
-### Example of CBA bank statement: 
-![CBA Bank Statement](./Resources/Example_CBA_statements.png)
-
-
-
-### Example of ANZ bank statement: 
-![ANZ Bank Statement](./Resources/Example_ANZ_statements.png)
-
-
-### Example of Standardised DataFrame After Data Clean
-
-![Dataframe](./Resources/bank_dataframe.png)
-
-
-
----
-
-
-## Create User Summary through Data Story
-
-The program makes it simple to see your expenditure and visualise your cashflow
-
-![Monthly Cash Flow Chart](./Resources/monthly_cashflow_chart.png)
-
-
-## Show Investment Simulation to Encourage Saving and investing
-
-`Insert chart of Monte carlo sim (Slice for period until retirement)`
-
-## Compare Savings to the Average Australian
-
-![Savings Comparison Chart](./Resources/savings_comparison_chart.png)
-
-
-
-<br>
-
-
-<br>
-
-<br>
-
-
-
-
 # Instructions:
 
 ## 1. Download bank statements as CSV
@@ -169,6 +88,7 @@ The program makes it simple to see your expenditure and visualise your cashflow
 
 
 
+--- 
 
 ## 3. Customise you investment return 
 
@@ -178,6 +98,8 @@ The program makes it simple to see your expenditure and visualise your cashflow
 ![Code for input risk appetite](./Resources/risk_appetite_input.png)
 
 <br>
+
+---
 
 
 ## 4. View the results 
@@ -216,4 +138,96 @@ source: [Westpac](https://www.westpac.com.au/personal-banking/solutions/budgetin
 #### Annualised return on investment in comparison to inflation rate 
 
 
+<br>
 
+<br>
+
+<br>
+
+
+
+
+# Technical Specifications
+
+`Program uses multiple Python libraries including Faker, Pandas, Datetime, OS, Numpy and Pathlib `
+
+![Python Libraries](./Resources/libraries.PNG)
+
+
+<br>
+
+
+## Source of data: 
+---
+
+1. CSV Data extracted from user's bank statements. 
+
+2. Analysis of historical data from S&P 500 and Aggregate Bond Index ETF,  obtained from Alpaca. 
+
+    The data were then used for Monte-Carlos Simulations. 
+
+    <sub>_Time period from 2017-05-01 to 2020-05-01_</sub>
+
+3. Inflation data (Consumer Price Index, **CPI**) was obtained from Australian Bureau of Statistics (ABS). 
+
+    Saving-By-Age data was obtained from Westpac. 
+
+    <sub>_Time period for CPI was from Jun-2012 to Jun-2022._</sub>
+
+    <sub>_Saving_By_Age was taken at 31-12-2020_</sub>
+
+
+
+<br>
+
+
+
+## Data sorting, Cleaning and Exploration: 
+---
+
+Processing and cleaning data is essential as users are with different banks, thus have different bank statement formats (NAB, ANZ, CBA, Westpac). 
+
+The program models the "BIG 4" banks, as they are the prevelant financial institutions in Australia.
+
+### Example of CBA bank statement: 
+![CBA Bank Statement](./Resources/Example_CBA_statements.png)
+
+
+
+### Example of ANZ bank statement: 
+![ANZ Bank Statement](./Resources/Example_ANZ_statements.png)
+
+
+### Example of Standardised DataFrame After Data Clean
+
+![Dataframe](./Resources/bank_dataframe.png)
+
+
+
+---
+
+
+## Create User Summary through Data Story
+
+The program makes it simple to see your expenditure and visualise your cashflow
+
+![Monthly Cash Flow Chart](./Resources/monthly_cashflow_chart.png)
+
+
+
+## Show Investment Simulation to Encourage Saving and investing
+
+`Insert chart of Monte carlo sim (Slice for period until retirement)`
+
+## Compare Savings to the Average Australian
+
+![Savings Comparison Chart](./Resources/savings_comparison_chart.png)
+
+
+
+<br>
+
+
+<br>
+
+<br>
