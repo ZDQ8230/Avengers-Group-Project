@@ -99,3 +99,57 @@ The program makes it simple to see your expenditure and visualise your cashflow
 
 ![Savings Comparison Chart](./Resources/savings_comparison_chart.png)
 
+
+
+# Instructions:
+
+## 1. Download bank statements as CSV
+
+### Below are detailed instructions to download your CSV bank statements. It is recommnded that you download a year worth of recent data:
+
+- [NAB](https://www.nab.com.au/personal/customer-support/using-online-banking-tools-to-make-tax-time-easier)
+- [WESTPAC](https://www.westpac.com.au/business-banking/online-banking/support-faqs/export-detailed-transaction-history/)
+- [ANZ](https://help.anz.co.nz/app/answers/detail/a_id/767/~/exporting-transaction-history)
+- [COMMBANK](https://www.commbank.com.au/business/online-business-services/commbiz/faqs/how-to-export-transactions.html)
+
+![Westpac Example](Resources/Westpac_Example.gif)
+
+---
+## 2. Set the file loaction for your csv file and input the basic parameters 
+
+1. Set up file path to access your bank CSV 
+
+
+
+2. Input you age, retirement age and risk appetite
+
+### Code for input current age and expected retirement age
+![Code for input current age and expected retirement age](./Resources/User_input%20example.png) <br>
+
+
+
+
+---
+## 3. Customise you investment return 
+
+1. Input risk appetite
+
+### Code for input risk appetite
+![Code for input risk appetite](./Resources/risk_appetite_input.png)
+
+
+--- 
+## 4. View the results 
+
+### Personal bankstatement
+![](./Resources/Personal_saving_results_from_bankstatement%20.png)
+
+### User's saving in comparison to saving of his/her age group
+![](./Resources/User_data_compare_to_saving_by_agegroup.png)
+source: [Westpac](https://www.westpac.com.au/personal-banking/solutions/budgeting-and-savings/savings/savings-by-age/)
+
+
+### Annualised return on investment in comparison to inflation rate 
+
+
+
