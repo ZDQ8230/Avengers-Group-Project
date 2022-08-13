@@ -15,14 +15,14 @@
 ## 2. Set the file loaction for your csv file and input the basic parameters 
 Input: 
 - file loaction
-- age 
-- risk appetite
 
 ---
 ## 3. Customise you investment return 
 
 Input: 
 - investment amount 
+- ge 
+- risk appetite
 
 --- 
 ## 4. View the results 
