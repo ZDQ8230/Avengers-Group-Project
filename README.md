@@ -94,7 +94,7 @@ The program makes it simple to see your expenditure and visualise your cashflow
 ### 2.2 Input you current age and retirement age 
 
 
-### 2.2 Input Monthly Investment
+### 2.2 Input Yearly Investment
 
 
 
@@ -146,6 +146,12 @@ The Fake CSV's are used to demonstrate the application.
 
 ---
 
+# Demo
+
+
+![Demo CSV Gen](./Resources/CSV_Gen_demo.gif)
+![Demo Reader](./Resources/CSV_GReader_demo.gif)
+![Demo Simulation](./Resources/mc_forecast_demo.gif)
 
 ## Source of data: 
 
