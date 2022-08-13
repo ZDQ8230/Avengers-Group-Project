@@ -146,12 +146,32 @@ The Fake CSV's are used to demonstrate the application.
 
 ---
 
+
 # Demo
 
 
+## CSV Generator
+
+
 ![Demo CSV Gen](./Resources/CSV_Gen_demo.gif)
+
+
+
+## CSV Reader
+
+
 ![Demo Reader](./Resources/CSV_GReader_demo.gif)
+
+
+
+## Monte Carlo Forecast
+
+
 ![Demo Simulation](./Resources/mc_forecast_demo.gif)
+
+
+---
+
 
 ## Source of data: 
 
