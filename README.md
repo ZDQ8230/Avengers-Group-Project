@@ -101,19 +101,19 @@ The program makes it simple to see your expenditure and visualise your cashflow
 
 ## Results 
 
+
 ### Compare Savings to the Average Australian
 
+
 ![Savings Comparison Chart](./Resources/savings_comparison_chart.png)
+
 
 #### Personal bankstatement
 ![](./Resources/Personal_saving_results_from_bankstatement%20.png)
 
-- Shows top three savings
-- Shows average yearly, monthly and weekly savings
 
-### Show Investment Simulation
+### Show Investment Simulation to Encourage Saving and investing
 
-#### Encourage Saving and investing
 
 ![Results_MC_VS_Benchmark](./Resources/MC_Results.png)
 
