@@ -53,26 +53,42 @@ Below is a demonstration of the result. The input data is from a fictional user 
 
 The program will test different risk preferences to understand how it affects the final result.
 
-### ***Scenario 1 - High risk preference***
+## ***Scenario 1 - High risk preference***
 
 ![](./Resources/High.png)
 ![](./Resources/MCS-High.png)
 <p align="center">
-Result for High risk preference
-</p>
 
-### ***Scenario 2 - Mid risk preference***
+### - 62 % of investment portfolio is stocl, 38 % is bond. 
+### - 6.4 % investment return rate 
+### - Receive $ 86,535.1 at age of 60
+
+</p>
+<br>
+
+
+## ***Scenario 2 - Mid risk preference***
 ![](./Resources/Mid.png)
 ![](./Resources/MCS-Mid.png)
 <p align="center">
-Result for Mid risk preference
-</p>
 
-### ***Scenario 3 - Low risk preference***
+### - 52 % of investment portfolio is stocl, 48 % is bond. 
+### - 5.6 % investment return rate 
+### - Receive $ 82,691.65 at age of 60
+
+</p>
+<br>
+
+
+## ***Scenario 3 - Low risk preference***
 ![](./Resources/Low.png)
 ![](./Resources/MCS-Low.png)
 <p align="center">
-Result for Low risk preference
+
+### - 42 % of investment portfolio is stocl, 58 % is bond. 
+### - 4.89 % investment return rate
+### - Receive $ 79,060.57 at age of 60
+
 </p>
 
 # Reference
